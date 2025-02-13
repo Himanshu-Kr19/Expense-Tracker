@@ -12,24 +12,6 @@ This URL has the application deployed in
 
 <p><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="ReactJS"> </p>
 
-## Cloning and Running the Application in local
-
-Clone the project into local
-
-Install all the npm packages. Go into the project folder and type the following command to install all npm packages
-
-```bash
-npm install
-```
-
-In order to run the application Type the following command
-
-```bash
-npm start
-```
-
-The Application Runs on **localhost:3000**
-
-## Relevant Screenshots of the application
+Screenshots of the application
 ![Use of voice recognition](https://user-images.githubusercontent.com/80601095/124516368-198cf800-ddff-11eb-9ba6-d7a59a1e95db.png)
 
